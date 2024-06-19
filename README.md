@@ -30,3 +30,11 @@ Code created during my W15B tutorials for COMP2521 in 24T2
 - Time Complexity Q0: Two Loops
 - Time Complexity Q1: Palindrome
 - Time Complexity Q2: Two Sum
+
+## Week 4: ADTs and Binary Search Trees
+
+- ADT Q1: Using an ADT (Stack)
+- BST Q1: Insertion
+- BST Q2: Traversal
+- BST Q4: Count odd nodes
+- BST Q7: Count Greater than val
