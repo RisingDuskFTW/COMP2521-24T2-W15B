@@ -17,3 +17,4 @@ int  HashTableGet(HashTable ht, int key);
 void HashTableDelete(HashTable ht, int key);
 
 int  HashTableSize(HashTable ht);
+
