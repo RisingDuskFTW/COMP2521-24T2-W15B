@@ -64,3 +64,12 @@ Code created during my W15B tutorials for COMP2521 in 24T2
 - Q3: Shortest Path (Dijkstra's Algorithm)
 - Q4: Minimum Spanning Tree (Kruskal's Algorithm)
 - Q5: Minimum Spanning Tree (Prim's Algorithm)
+
+## Week 9: Hash Tables
+
+- Q1: Hash Functions
+- Q3: Hash Collisions
+- Q2: Separate Chaining best/worst case
+- Q4: Bad Double Hashing
+- Q5: Hash Tables vs AVL Trees
+- Q6: Three Sum with a Hash Table
