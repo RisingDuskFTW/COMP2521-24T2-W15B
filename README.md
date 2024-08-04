@@ -73,3 +73,13 @@ Code created during my W15B tutorials for COMP2521 in 24T2
 - Q4: Bad Double Hashing
 - Q5: Hash Tables vs AVL Trees
 - Q6: Three Sum with a Hash Table
+
+## Week 10: Heaps and Tries
+
+- Heaps Q1: Heap as Array and Binary Tree
+– Heaps Q2: Heaps application
+- Tries Q1: Tries
+- Tries Q2 & Q4: Tries
+- Tries Q3: Insertion
+- Tries Q6: Tries application
+- Kahoot
